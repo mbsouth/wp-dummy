@@ -1,2 +1,2 @@
 # wp-dummy
-A dummy plugin exclusively for testing purposes
+A dummy plugin exclusively for testing purposes!
