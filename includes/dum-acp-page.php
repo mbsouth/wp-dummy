@@ -1,6 +1,6 @@
 <?php
 /**
- * Add my new menu to the Admin Control Panel
+ * ACP settings page
  */
 
 echo '<div class="wrap">'
